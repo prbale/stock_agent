@@ -74,7 +74,7 @@ cd your-repo-name
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install google-adk yfinance
 ```
 
 ### Set your Google API key
